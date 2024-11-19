@@ -14,7 +14,7 @@ This repository includes codes of the paper named **Human-Like Interactive Lane-
 
 The structures of the diffusive planner and predictor are shown below:
 
-<img src="img/model2.jpg" alt="model" width="1000"/>
+<img src="img/model2.jpg" alt="model2" width="1000"/>
 
 ## Model Training
 
@@ -32,10 +32,10 @@ First separately train five models from Step 1 to Step 4, then evaluate the resu
 
 Comparison of ground-truth vs. predicted speed and jerk distributions. Diff-LC shows the most human-like distributions during lane-changing.
 
-<img src="img/likeness.jpg" alt="model" width="800"/>
+<img src="img/likeness.jpg" alt="likeness" width="800"/>
 
 
 
 The generated and ground-true lane-changing trajectories. The trajectories represented with dashed lines indicate the ground truth paths, and the trajectories without dashed lines are planned paths by Diff-LC.
 
-<img src="img/case.jpg" alt="model" width="900"/>
+<img src="img/case.jpg" alt="case" width="900"/>
