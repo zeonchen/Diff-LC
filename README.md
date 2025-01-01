@@ -39,3 +39,21 @@ Comparison of ground-truth vs. predicted speed and jerk distributions. Diff-LC s
 The generated and ground-true lane-changing trajectories. The trajectories represented with dashed lines indicate the ground truth paths, and the trajectories without dashed lines are planned paths by Diff-LC.
 
 <img src="img/case.jpg" alt="case" width="900"/>
+
+
+
+## Citation
+
+```
+@article{10819263,
+  author={Chen, Kehua and Luo, Yuhao and Zhu, Meixin and Yang, Hai},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Human-Like Interactive Lane-Change Modeling Based on Reward-Guided Diffusive Predictor and Planner}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Trajectory;Vehicles;Planning;Autonomous vehicles;Predictive models;Cloning;Training;Reinforcement learning;Driver behavior;Decision making;Lane changing;human-like modeling;diffusion model;trajectory prediction},
+  doi={10.1109/TITS.2024.3520613}}
+
+```
